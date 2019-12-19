@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e869306c-133c-43b9-ba49-5c04545c4ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="e869306c-133c-43b9-ba49-5c04545c4ed5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,17 +74,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576746104157</updated>
-      <workItem from="1576746107590" duration="29000" />
+      <workItem from="1576746107590" duration="688000" />
     </task>
+    <task id="LOCAL-00001" summary="创建一个项目">
+      <created>1576746190448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576746190448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建一个项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建一个项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1576746189535">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="228" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1576746189535" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1576746798743">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576746798743" />
   </component>
 </project>
